@@ -2,7 +2,7 @@
 
 ## [Important!!] WebGL2.0
 
-The game might be laggy if you do not enable the WebGL2.0 on your chromium browser. Here is a link to an [Article](https://www.interplaylearning.com/en/help/how-to-enable-webgl-in-chrome) that allows you to fix that.
+The game might be laggy if you do not enable the WebGL2.0 on your chromium browser. Here is a link to an [Article](https://www.interplaylearning.com/en/help/how-to-enable-webgl-in-chrome) that allows you to fix that. Also make sure to allow the browser to enable the "Use hardware acceleration when available".
 Make sure your graphic drivers are up to date too! :)
 
 
