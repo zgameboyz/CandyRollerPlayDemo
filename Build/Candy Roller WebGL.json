@@ -1,0 +1,17 @@
+{
+"companyName": "Solunera",
+"productName": "Candy Roller",
+"productVersion": "1.1",
+"dataUrl": "Candy Roller WebGL.data.unityweb",
+"asmCodeUrl": "Candy Roller WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Candy Roller WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Candy Roller WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
