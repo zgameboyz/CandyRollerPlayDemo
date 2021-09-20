@@ -1,1 +1,14 @@
 # CandyRollerPlayDemo
+
+
+## How to play
+Click on the link located on the github pages on the right side of the repository.
+
+## Gameplay Instructions
+Move and jump your way to the goal, avoid any obstacles in your way!
+
+## Controls
+The actual controls will be WASD to move an spacebar to jump. Possible power up.
+
+### Attribution
+Music by: White Petals by Keys of Moon | https://soundcloud.com/keysofmoon Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ Music promoted by https://www.chosic.com/ Unity Asset Store for many in game models.
