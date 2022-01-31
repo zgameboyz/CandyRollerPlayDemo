@@ -18,10 +18,14 @@ Move and jump your way to the goal, avoid any obstacles in your way!
 
 ## Controls
 W-Up
+</br>
 A-Left
+</br>
 S-Down
+</br>
 D-Right
+</br>
 Space-Jump
-
+</br>
 ### Attribution
 Music by: White Petals by Keys of Moon | https://soundcloud.com/keysofmoon Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ Music promoted by https://www.chosic.com/ Unity Asset Store for many in game models.
